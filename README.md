@@ -1,16 +1,30 @@
-### Hi there 👋
+### Welcome
+> #### A person who cannot sacrifice anything, cannot change anything
 
-<!--
-**Camilo318/Camilo318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilo318&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+- JavaScript
+- HTML
+- CSS
+- React
+- NextJS
+- Typescript
+- Jest (Unit and Integration testing)
+- NodeJS
+- Express
+- MongoDB
+
+- 🔭 I’m currently working on:
+  - Revamped versions of my current projects 
+  - New anime web app
+  - New online shop
+
+- 🌱 I’m currently learning:
+  - GraphQL (apollo-server)
+  - Nexus
+  - SQL
+  - Prisma
+
+- ⚡ Fun fact: **I like anime**
