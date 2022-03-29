@@ -26,13 +26,11 @@ Web UI Developer at Globant. I do frontend stuff, sometimes backend stuff, but a
 </p>
 
 - 🔭 I’m currently working on:
-
   - Revamped versions of my current projects
   - New Anime Web App
   - New eCommerce
 
 - 🌱 I’m currently learning:
-
   - GraphQL (apollo-server)
   - Nexus
   - SQL
