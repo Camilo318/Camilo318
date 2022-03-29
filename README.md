@@ -2,10 +2,10 @@
 
 > #### A person who cannot sacrifice anything, cannot change anything
 
-Web UI Developer at Globant. I do frontend stuff, sometimes backend stuff, but always cool stuff
+<img src='https://raw.githubusercontent.com/Camilo318/Camilo318/master/banner.jpeg' align='right' width='50%'/>
+<p align='left'>Web UI Developer at Globant. I do frontend stuff, sometimes backend stuff, but always cool stuff</p>
 
-<h3 align="center">Skills</h3>
-
+### Skills
 <p align="center">
   <img src='https://raw.githubusercontent.com/Camilo318/Camilo318/master/skills/html.svg' height='42px'/>
   <img src='https://raw.githubusercontent.com/Camilo318/Camilo318/master/skills/css.svg' height='42px'/>
@@ -21,7 +21,6 @@ Web UI Developer at Globant. I do frontend stuff, sometimes backend stuff, but a
   <img src='https://raw.githubusercontent.com/Camilo318/Camilo318/master/skills/eslint.svg' height='42px'/>
   <img src='https://raw.githubusercontent.com/Camilo318/Camilo318/master/skills/typescript.svg' height='42px'/>
   <img src='https://raw.githubusercontent.com/Camilo318/Camilo318/master/skills/nodejs.svg' height='42px'/>
-  <img src='https://raw.githubusercontent.com/Camilo318/Camilo318/master/skills/express.svg' height='42px'/>
   <img src='https://raw.githubusercontent.com/Camilo318/Camilo318/master/skills/mongodb.svg' height='42px'/>
 </p>
 
