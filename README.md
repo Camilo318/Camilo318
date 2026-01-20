@@ -28,7 +28,6 @@ Web UI Developer at Globant. I do frontend stuff, sometimes backend stuff, but a
 
 - 🔭 I’m currently working on:
   - Revamped versions of my current projects
-  - New Anime Web App
   - New eCommerce
 
 - 🌱 I’m currently learning:
@@ -36,7 +35,5 @@ Web UI Developer at Globant. I do frontend stuff, sometimes backend stuff, but a
   - Nexus
   - SQL
   - Prisma
-
-- ⚡ Fun fact: **I like anime**
 
 
