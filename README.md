@@ -4,7 +4,7 @@
 
 Web UI Developer at Globant. I do frontend stuff, sometimes backend stuff, but always cool stuff
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilo318&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilo318)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align='center'>Skills</h2>
 <p align="center">
